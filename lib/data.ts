@@ -48,7 +48,7 @@ export const experiencesData = [
     description:
       "I did attended to extra courses and got to learn typescript and Tailwindcss",
     icon: React.createElement(CgWorkAlt),
-    date: "2014",
+    date: "2024",
   },
   {
     title: "Homeland",
